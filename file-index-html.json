@@ -1,0 +1,128 @@
+{
+    "meta": {
+        "descriptions": {
+            "created": "date of creation of this file",
+            "fsRootDir": "Start directory ($rootDir) of indexer script",
+            "fsIndexHomeDir": "Directory in which the top-level index.html resides",
+            "serverRoot": "Server Root",
+            "generator": "Script that generated this list"
+        },
+        "values": {
+            "created": "2025-01-04 05:38:18",
+            "fsRootDir": "C:\\Users\\User1\\Documents",
+            "fsIndexHomeDir": "C:\\Users\\User1\\Documents\\Filelists\\_file_index",
+            "serverRoot": "http://localhost:8084",
+            "generator": "file-indexer.ps1"
+        }
+    },
+    "fileinfo": [
+        {
+            "filename": "Project_Timeline_Q1.html",
+            "extension": ".html",
+            "full_path": "C:\\Users\\User1\\Documents\\Projects\\Project_Timeline_Q1.html",
+            "relative_path": "Projects/Project_Timeline_Q1.html",
+            "directory": "Projects",
+            "last_modified": "2024-02-01 16:20:33",
+            "size_bytes": 892
+        },
+        {
+            "filename": "Sales_Report_Jan.html",
+            "extension": ".html",
+            "full_path": "C:\\Users\\User1\\Documents\\Sales\\Sales_Report_Jan.html",
+            "relative_path": "Sales/Sales_Report_Jan.html",
+            "directory": "Sales",
+            "last_modified": "2024-02-05 14:50:31",
+            "size_bytes": 3567
+        },
+        {
+            "filename": "Research_Findings.html",
+            "extension": ".html",
+            "full_path": "C:\\Users\\User1\\Documents\\Research\\Research_Findings.html",
+            "relative_path": "Research/Research_Findings.html",
+            "directory": "Research",
+            "last_modified": "2024-01-27 10:55:27",
+            "size_bytes": 4567
+        },
+        {
+            "filename": "Performance_Review_Template.html",
+            "extension": ".html",
+            "full_path": "C:\\Users\\User1\\Documents\\HR Templates\\Performance_Review_Template.html",
+            "relative_path": "HR Templates/Performance_Review_Template.html",
+            "directory": "HR Templates",
+            "last_modified": "2024-02-06 09:10:36",
+            "size_bytes": 678
+        },
+        {
+            "filename": "Brand_Guidelines.html",
+            "extension": ".html",
+            "full_path": "C:\\Users\\User1\\Documents\\Branding\\Brand_Guidelines.html",
+            "relative_path": "Branding/Brand_Guidelines.html",
+            "directory": "Branding",
+            "last_modified": "2024-02-13 14:00:02",
+            "size_bytes": 4321
+        },
+        {
+            "filename": "Company_Intranet_Homepage.html",
+            "extension": ".html",
+            "full_path": "C:\\Users\\User1\\Documents\\Web\\Internal\\Company_Intranet_Homepage.html",
+            "relative_path": "Web/Internal/Company_Intranet_Homepage.html",
+            "directory": "Web/Internal",
+            "last_modified": "2024-02-15 09:45:22",
+            "size_bytes": 12456
+        },
+        {
+            "filename": "Employee_Dashboard.html",
+            "extension": ".html",
+            "full_path": "C:\\Users\\User1\\Documents\\Web\\Portal\\Employee_Dashboard.html",
+            "relative_path": "Web/Portal/Employee_Dashboard.html",
+            "directory": "Web/Portal",
+            "last_modified": "2024-02-14 16:30:15",
+            "size_bytes": 8934
+        },
+        {
+            "filename": "Employee_Self_Care.html",
+            "extension": ".html",
+            "full_path": "C:\\Users\\User1\\Documents\\Web\\Portal\\Employee_Self_Care.html",
+            "relative_path": "Web/Portal/Employee_Self_Care.html",
+            "directory": "Web/Portal",
+            "last_modified": "2024-02-14 16:30:15",
+            "size_bytes": 8934
+        },
+        {
+            "filename": "Employee_Directory.html",
+            "extension": ".html",
+            "full_path": "C:\\Users\\User1\\Documents\\Web\\Portal\\Employee_Directory.html",
+            "relative_path": "Web/Portal/Employee_Directory.html",
+            "directory": "Web/Portal",
+            "last_modified": "2024-02-14 16:30:15",
+            "size_bytes": 8934
+        },
+        {
+            "filename": "Training_Module_1.html",
+            "extension": ".html",
+            "full_path": "C:\\Users\\User1\\Documents\\Training\\Modules\\Training_Module_1.html",
+            "relative_path": "Training/Modules/Training_Module_1.html",
+            "directory": "Training/Modules",
+            "last_modified": "2024-02-13 11:20:33",
+            "size_bytes": 15678
+        },
+        {
+            "filename": "Project_Status_Report.html",
+            "extension": ".html",
+            "full_path": "C:\\Users\\User1\\Documents\\Projects\\Reports\\Project_Status_Report.html",
+            "relative_path": "Projects/Reports/Project_Status_Report.html",
+            "directory": "Projects/Reports",
+            "last_modified": "2024-02-15 14:25:47",
+            "size_bytes": 6789
+        },
+        {
+            "filename": "Department_Directory.html",
+            "extension": ".html",
+            "full_path": "C:\\Users\\User1\\Documents\\HR\\Directory\\Department_Directory.html",
+            "relative_path": "HR/Directory/Department_Directory.html",
+            "directory": "HR/Directory",
+            "last_modified": "2024-02-12 10:15:39",
+            "size_bytes": 9876
+        }
+    ]
+}
