@@ -1,2 +1,2 @@
 # fileindex
-Creating an index page that list all your HTML files
+Creating an index page that lists all your HTML files
